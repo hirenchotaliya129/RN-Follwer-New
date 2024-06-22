@@ -1,0 +1,16 @@
+// LOGIN
+export const GET_DEVICE_ID = 'GET_DEVICE_ID';
+export const CURRENT_USER_INFO = 'CURRENT_USER_INFO';
+
+// COMPAIGNS;
+export const USER_LIST = 'USER_LIST';
+export const COIN = 'COIN';
+export const USER_DETAILS = 'USER_DETAILS';
+export const USER_DETAILS_BY_POST_REELS = 'USER_DETAILS_BY_POST_REELS';
+export const GET_COMPAIGNS_LIST = 'GET_COMPAIGNS_LIST';
+export const CURRENT_USER_INFO_IN_USER_LIST = 'CURRENT_USER_INFO_IN_USER_LIST';
+
+export const USER_POST = 'USER_POST';
+
+export const GET_COMPAIGN = 'GET_COMPAIGN';
+export const COUNTRY_ID = 'COUNTRY_ID';
